@@ -1,20 +1,20 @@
 <h1>👽 Aliens 👽</h1>
 
 <p>
-👽 Aliens 👽 is an arcade-style web game where your goal is to survive the barrage of asteroids and alien attackers. The longer you last, the harder it gets. More aliens start showing up with their own attacks you must avoid.
+Aliens is an arcade-style web game where your goal is to survive the barrage of asteroids and alien attackers. The longer you last, the harder it gets. More aliens start showing up with their own attacks you must avoid.
 </p>
 
-<h2>How You Can Play 🎮 </h2>
+<h2>How You Can Play</h2>
 
 <div align="center">
   <h3>
     <a href="https://danielnakhooda.com/games/Aliens/Aliens.html">
-      Click here to play 👽 Aliens 👽
+      Click here to play Aliens
     </a>
   </h3>
 </div>
 
-<h2>Screenshots 📸</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7447afee-2652-4476-b2df-a37f11eb796c" alt="Aliens Early" width="600" />
