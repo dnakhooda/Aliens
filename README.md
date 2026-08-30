@@ -1,4 +1,4 @@
-<h1>👽 Aliens 👽</h1>
+<h1>Aliens</h1>
 
 <p>
 Aliens is an arcade-style web game where your goal is to survive the barrage of asteroids and alien attackers. The longer you last, the harder it gets. More aliens start showing up with their own attacks you must avoid.
